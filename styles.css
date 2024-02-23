@@ -5,12 +5,11 @@
   flex-flow: row nowrap;
   align-items: center;
   justify-content: center;
-  }
-html, body{
-  margin: 0;
-  padding: 0;
-  height: 100%;
+}
+html,body{
+margin: 0;
+padding: 0;
 }
 .msg{
-  font-size:64px;
+font-size: 64px;
 }
