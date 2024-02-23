@@ -7,9 +7,9 @@
   justify-content: center;
   }
 html,body{
-  margin: 0;
-  padding: 0;
+  margin:0;
+  padding:0;
 }
 .msg{
-  font-size: 64px;
+  font-size:64px;
 }
